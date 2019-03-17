@@ -1,0 +1,57 @@
+.btn-danger{
+
+	background-color: yellow;
+}
+.btn-danger:hover{
+
+	background-color: pink;
+}
+.col{
+
+
+	background-color: grey;
+	border: 2px solid black;
+}
+h1{
+
+
+	color:red;
+	background-color: yellow;
+}
+h1
+{
+	color: yellow;
+	background-color: red;
+}
+body{
+
+	background-color: B974AC;
+}
+.container{
+	
+	display:flex;
+   flex-wrap: wrap;
+   justify-content:center;
+
+}
+h1{
+	font-family:arial;
+	font-size:2em;
+	border-bottom: 2px solid green;
+	border-right: 2px solid green;
+	width: 400px;
+	text-align: center;
+	box-shadow: 5px 5px 5px grey; 
+
+}
+img{
+	
+width: 500px;
+height: 300px;
+transition: all 1s;
+
+}
+img:hover{
+	
+	transform: scale(1.5);
+}
